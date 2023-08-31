@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RegistryModifier": {
+      "commandName": "Project",
+      "commandLineArgs": "add \"Open in CMD\" -c \"C:\\Windows\\System32\\cmd.exe\" -i \"C:\\Windows\\System32\\cmd.exe\""
+    }
+  }
+}
